@@ -31,3 +31,15 @@ From DTI412 I expect to learn how real applications are built and maintained end
 - **Technical skills I want to improve:** Python, API design, workflow automation, version control
 - **Technologies I want to learn:** Django, REST APIs, cloud deployment, n8n, AI agent frameworks
 - **Dream Job Position:** AI Product Manager
+
+# Semester Goals
+
+- Learn Django
+- Learn REST API Development
+- Learn Cloud Deployment
+
+# Portfolio Projects
+
+1. Student Management System
+2. Internship Management System
+3. Inventory Management System
